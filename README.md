@@ -6,8 +6,8 @@
 
 01. [ML Soldiers Race Classification Visually Compare Models: LR, SVM, KNN, DT, RF, XGB](./ML-Soldier-Race-Classification-Project.ipynb)
 
-[![Recall](https://i.ibb.co/C9ZQM8q/download.png "Recall Score Comparison")]()
-[![Accuracy](https://i.ibb.co/Xs2z1Pp/download.png "Accuracy Score Comparison")]()
+<img src='https://i.ibb.co/C9ZQM8q/download.png' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/Xs2z1Pp/download.png' alt='' width=90%, height=300>
 
 - [Logistic regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 - [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html#classification)
