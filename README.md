@@ -1,6 +1,6 @@
 # ML-Soldiers-Race-Classification-Project
 
-### [Go to Projects Page](https://github.com/celik-muhammed/19-Data-Analysis-Projects-with-Python/blob/master/README.md)
+### [Go to Projects Page](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md)
 
 ## Visually Compare Models Performance In a Graph
 
