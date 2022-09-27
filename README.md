@@ -6,9 +6,21 @@
 
 01. [ML Soldiers Race Classification Visually Compare Models: LR, SVM, KNN, DT, RF, XGB](./ML-Soldier-Race-Classification-Project.ipynb)
 
-<img src='https://i.ibb.co/C9ZQM8q/download.png' alt='' width=90%, height=300>
-<img src='https://i.ibb.co/Xs2z1Pp/download.png' alt='' width=90%, height=300>
-
+<div align='center'>
+<img src='https://i.ibb.co/qkZDnsR/download.png' alt='' width=80%, height=450>
+<img src='https://i.ibb.co/pyjs3tn/download.png' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/PgHQZr5/download.png' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/0rf4bv2/download.png' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/LztTZqn/download.png' alt='' width=90%, height=300>
+  
+## SHAP 
+  
+<img src='https://i.ibb.co/nBLTjC1/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/H7Kcf62/download.png' alt='' width=90%, height=500>
+<img src='https://i.ibb.co/3yBRXQd/shap.png' alt='' width=90%, height=400>
+<img src='https://i.ibb.co/grYfpk3/shap-waterfall.png' alt='' width=90%, height=600>
+</div>
+  
 - [Logistic regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
 - [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html#classification)
 - [Nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html#nearest-neighbors-classification)
