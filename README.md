@@ -7,9 +7,9 @@
 01. [ML Soldiers Race Classification Visually Compare Models: LR, SVM, KNN, DT, RF, XGB](./ML-Soldier-Race-Classification-Project.ipynb)
 
 <div align='center'>
-<img src='https://i.ibb.co/pyjs3tn/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/PgHQZr5/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/0rf4bv2/download.png' alt='' width=90%, height=300>
+<img src='https://i.ibb.co/pyjs3tn/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/LztTZqn/download.png' alt='' width=90%, height=300>
 <img src='https://i.ibb.co/qkZDnsR/download.png' alt='' width=80%, height=450>
   
